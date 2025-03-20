@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="KLineChartView">
+        <!--公共的-->
+        <attr name="kc_text_size" format="dimension" />
+        <attr name="kc_text_color" format="color" />
+        <attr name="kc_line_width" format="dimension" />
+        <attr name="kc_background_color" format="color" />
+        <attr name="kc_selected_line_color" format="color" />
+        <attr name="kc_selected_line_width" format="dimension" />
+        <attr name="kc_grid_line_width" format="dimension" />
+        <attr name="kc_grid_line_color" format="color" />
+        <attr name="kc_point_width" format="dimension" />
+        <attr name="kc_top_ma_or_bull_text_size" format="dimension" />
+        <!--macd-->
+        <attr name="kc_macd_width" format="dimension" />
+        <attr name="kc_dif_color" format="color" />
+        <attr name="kc_dea_color" format="color" />
+        <attr name="kc_macd_color" format="color" />
+        <!--kdj-->
+        <attr name="kc_k_color" format="color" />
+        <attr name="kc_d_color" format="color" />
+        <attr name="kc_j_color" format="color" />
+        <!--rsi-->
+        <attr name="kc_rsi1_color" format="color" />
+        <attr name="kc_rsi2_color" format="color" />
+        <attr name="kc_ris3_color" format="color" />
+        <!--boll-->
+        <attr name="kc_up_color" format="color" />
+        <attr name="kc_mb_color" format="color" />
+        <attr name="kc_dn_color" format="color" />
+        <!--main-->
+        <attr name="kc_ma5_color" format="color" />
+        <attr name="kc_ma10_color" format="color" />
+        <attr name="kc_ma20_color" format="color" />
+        <attr name="kc_candle_width" format="dimension" />
+        <attr name="kc_candle_line_width" format="dimension" />
+        <attr name="kc_selector_background_color" format="color" />
+        <attr name="kc_selector_text_size" format="dimension" />
+        <attr name="kc_candle_solid" format="boolean" />
+        <!--tab-->
+        <attr name="kc_tab_background_color" format="color" />
+        <attr name="kc_tab_text_color" format="color" />
+        <attr name="kc_tab_indicator_color" format="color" />
+        <attr name="kc_vol_rect_widget" format="float" />
+        <attr name="kc_top_padding" format="dimension" />
+        <attr name="kc_grid_rows" format="integer" />
+        <attr name="kc_grid_columns" format="integer" />
+        <attr name="kc_orientation" format="enum">
+            <enum name="kc_vertical" value="0" />
+            <enum name="kc_horizontal" value="1" />
+        </attr>
+
+
+    </declare-styleable>
+
+
+    <declare-styleable name="CustomDrawChart">
+        <attr name="textTertiary" format="color" />
+        <attr name="textSecondary" format="color" />
+        <attr name="upColor" format="color" />
+        <attr name="downColor" format="color" />
+        <attr name="tintsOrangeBase" format="color" />
+        <attr name="textTitle" format="color" />
+        <attr name="tintsRedBase" format="color" />
+        <attr name="tintsBlueBase" format="color" />
+        <attr name="chart_line" format="color" />
+        <attr name="chart_line_background" format="color" />
+        <attr name="primary" format="color" />
+        <attr name="iconSecondary" format="color" />
+        <attr name="chart_text" format="color" />
+        <attr name="textPrimary" format="color" />
+        <attr name="chart_selector_price_text_color" format="color" />
+        <attr name="chart_bac" format="color" />
+        <attr name="chart_selector_price_bg_color" format="color" />
+        <attr name="chart_main_background_start_color" format="color" />
+        <attr name="chart_main_background_end_color" format="color" />
+        <attr name="chart_vol_background_start_color" format="color" />
+        <attr name="chart_vol_background_end_color" format="color" />
+        <attr name="chart_vol_forget_start_color" format="color" />
+        <attr name="chart_vol_forget_end_color" format="color" />
+        <attr name="bgSecondary" format="color" />
+        <attr name="fillModalButtonDefault" format="color" />
+        <attr name="chart_grid_line" format="color" />
+        <attr name="dividerPrimary" format="color" />
+        <attr name="chart_ma5" format="color" />
+        <attr name="chart_ma10" format="color" />
+        <attr name="chart_ma30" format="color" />
+        <attr name="chart_location_fill_color" format="color" />
+        <attr name="chart_location_stroke_color" format="color" />
+
+    </declare-styleable>
+
+
+</resources>

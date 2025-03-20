@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MKlin" parent="android:Theme.Material.Light.NoActionBar" >
+
+        <item name="kc_text_color">#000000</item>
+        <item name="kc_background_color">#FFFFFF</item>
+        <item name="kc_selected_line_color">#0000FF</item>
+        <item name="kc_grid_line_color">#808080</item>
+        <item name="kc_up_color">#00FF00</item>
+        <item name="kc_ma5_color">#0000FF</item>
+        <item name="kc_ma10_color">#FF00FF</item>
+        <item name="kc_ma20_color">#00FFFF</item>
+
+        <item name="textTertiary">#000000</item>
+        <item name="textSecondary">#000000</item>
+        <item name="upColor">#00FF00</item>
+        <item name="downColor">#FF0000</item>
+        <item name="tintsOrangeBase">#FFA500</item>
+        <item name="textTitle">#000000</item>
+        <item name="tintsRedBase">#FF0000</item>
+        <item name="tintsBlueBase">#0000FF</item>
+        <item name="chart_line">#A9A9A9</item>
+        <item name="chart_line_background">#FFFFFF</item>
+        <item name="primary">#FF4081</item>
+        <item name="iconSecondary">#808080</item>
+        <item name="chart_text">#000000</item>
+        <item name="textPrimary">#000000</item>
+        <item name="chart_selector_price_text_color">#000000</item>
+        <item name="chart_bac">#FFFFFF</item>
+        <item name="chart_selector_price_bg_color">#D3D3D3</item>
+        <item name="chart_main_background_start_color">#FFFFFF</item>
+        <item name="chart_main_background_end_color">#D3D3D3</item>
+        <item name="chart_vol_background_start_color">#FFFFFF</item>
+        <item name="chart_vol_background_end_color">#D3D3D3</item>
+        <item name="chart_vol_forget_start_color">#00000000</item>
+        <item name="chart_vol_forget_end_color">#00000000</item>
+        <item name="bgSecondary">#E0E0E0</item>
+        <item name="fillModalButtonDefault">#FF4081</item>
+        <item name="chart_grid_line">#808080</item>
+        <item name="dividerPrimary">#808080</item>
+        <item name="chart_ma5">#0000FF</item>
+        <item name="chart_ma10">#FF00FF</item>
+        <item name="chart_ma30">#00FFFF</item>
+        <item name="chart_location_fill_color">#FFFF00</item>
+        <item name="chart_location_stroke_color">#000000</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="k_chart_time">Time</string>
+    <string name="k_chart_open">Open</string>
+    <string name="k_chart_high">High</string>
+    <string name="k_chart_low">Low</string>
+    <string name="k_chart_close">Close</string>
+    <string name="k_chart_change">Change</string>
+    <string name="k_chart_change_rate">Change rate</string>
+    <string name="k_chart_vol">Vol</string>
+</resources>

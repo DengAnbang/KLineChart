@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MKlin</string>
+    <string name="time">Time</string>
+    <string name="open">Open</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="close">Close</string>
+    <string name="change">Change</string>
+    <string name="change_rate">Change Rate</string>
+    <string name="range">Range</string>
+    <string name="volume">Volume</string>
+    <string name="order">Order</string>
+    <string name="amount">Amount</string>
+</resources>
